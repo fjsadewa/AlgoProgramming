@@ -1,0 +1,24 @@
+Tanggal transaksi 	: 1 
+Nama Pelanggan 		: a 
+Jenis Produk 		: b 
+Nama Produk 		: c 
+Jumlah Produk 		: 4 buah 
+Harga Produk 		: Rp 1500 
+Total Pembayaran 	: Rp 6000
+
+Tanggal transaksi 	: 2 
+Nama Pelanggan 		: d 
+Jenis Produk 		: e 
+Nama Produk 		: f 
+Jumlah Produk 		: 4 buah 
+Harga Produk 		: Rp 1500 
+Total Pembayaran 	: Rp 6000
+
+Tanggal transaksi 	: 3 
+Nama Pelanggan 		: g 
+Jenis Produk 		: h 
+Nama Produk 		: i 
+Jumlah Produk 		: 4 buah 
+Harga Produk 		: Rp 1500 
+Total Pembayaran 	: Rp 6000
+
